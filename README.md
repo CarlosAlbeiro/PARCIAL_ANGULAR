@@ -5,6 +5,7 @@ Version de angular version 21.2.12.
 ## Estudiante
 Carlos Albeiro Galeano Gomez
 
+
 ## Api utilizada
 Rick and Morty API https://rickandmortyapi.com
 
